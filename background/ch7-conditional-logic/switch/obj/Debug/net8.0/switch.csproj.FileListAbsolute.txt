@@ -1,0 +1,15 @@
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\obj\Debug\net8.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\obj\Debug\net8.0\switch.AssemblyInfoInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\obj\Debug\net8.0\switch.AssemblyInfo.cs
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\obj\Debug\net8.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\obj\Debug\net8.0\switch.sourcelink.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\bin\Debug\net8.0\switch.exe
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\bin\Debug\net8.0\switch.deps.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\bin\Debug\net8.0\switch.runtimeconfig.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\bin\Debug\net8.0\switch.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\bin\Debug\net8.0\switch.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\obj\Debug\net8.0\switch.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\obj\Debug\net8.0\refint\switch.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\obj\Debug\net8.0\switch.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\obj\Debug\net8.0\switch.genruntimeconfig.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\switch\obj\Debug\net8.0\ref\switch.dll

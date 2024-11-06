@@ -1,0 +1,15 @@
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\bin\Debug\net8.0\ternary.exe
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\bin\Debug\net8.0\ternary.deps.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\bin\Debug\net8.0\ternary.runtimeconfig.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\bin\Debug\net8.0\ternary.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\bin\Debug\net8.0\ternary.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\obj\Debug\net8.0\ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\obj\Debug\net8.0\ternary.AssemblyInfoInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\obj\Debug\net8.0\ternary.AssemblyInfo.cs
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\obj\Debug\net8.0\ternary.csproj.CoreCompileInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\obj\Debug\net8.0\ternary.sourcelink.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\obj\Debug\net8.0\ternary.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\obj\Debug\net8.0\refint\ternary.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\obj\Debug\net8.0\ternary.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\obj\Debug\net8.0\ternary.genruntimeconfig.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\ch7-conditional-logic\ternary\obj\Debug\net8.0\ref\ternary.dll

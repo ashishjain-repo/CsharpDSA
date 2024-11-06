@@ -1,0 +1,15 @@
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\obj\Debug\net8.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\obj\Debug\net8.0\for.AssemblyInfoInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\obj\Debug\net8.0\for.AssemblyInfo.cs
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\obj\Debug\net8.0\for.csproj.CoreCompileInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\obj\Debug\net8.0\for.sourcelink.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\bin\Debug\net8.0\for.exe
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\bin\Debug\net8.0\for.deps.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\bin\Debug\net8.0\for.runtimeconfig.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\bin\Debug\net8.0\for.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\bin\Debug\net8.0\for.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\obj\Debug\net8.0\for.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\obj\Debug\net8.0\refint\for.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\obj\Debug\net8.0\for.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\obj\Debug\net8.0\for.genruntimeconfig.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch8-repetition\for\obj\Debug\net8.0\ref\for.dll
