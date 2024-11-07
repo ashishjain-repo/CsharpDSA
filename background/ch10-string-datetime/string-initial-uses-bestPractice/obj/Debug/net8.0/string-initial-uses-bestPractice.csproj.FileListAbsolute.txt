@@ -1,0 +1,5 @@
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch10-string-datetime\string-initial-uses-bestPractice\obj\Debug\net8.0\string-initial-uses-bestPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch10-string-datetime\string-initial-uses-bestPractice\obj\Debug\net8.0\string-initial-uses-bestPractice.AssemblyInfoInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch10-string-datetime\string-initial-uses-bestPractice\obj\Debug\net8.0\string-initial-uses-bestPractice.AssemblyInfo.cs
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch10-string-datetime\string-initial-uses-bestPractice\obj\Debug\net8.0\string-initial-uses-bestPractice.csproj.CoreCompileInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\ch10-string-datetime\string-initial-uses-bestPractice\obj\Debug\net8.0\string-initial-uses-bestPractice.sourcelink.json

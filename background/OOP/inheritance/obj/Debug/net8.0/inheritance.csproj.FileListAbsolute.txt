@@ -1,0 +1,15 @@
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\obj\Debug\net8.0\inheritance.sourcelink.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\bin\Debug\net8.0\inheritance.exe
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\bin\Debug\net8.0\inheritance.deps.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\bin\Debug\net8.0\inheritance.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\bin\Debug\net8.0\inheritance.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\obj\Debug\net8.0\inheritance.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\obj\Debug\net8.0\inheritance.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\background\OOP\inheritance\obj\Debug\net8.0\ref\inheritance.dll
