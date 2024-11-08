@@ -12,6 +12,11 @@ namespace inheritance
             RetailSalesPerson SalesDude = new RetailSalesPerson("Erik","Erikson");
             Console.WriteLine(SalesDude.FullName);
             SalesDude.Sell();
+            SalesDude.Develop();
+
+            WebDeveloper mike = new WebDeveloper("Angular");
+            mike.Code();
+            mike.Develop();
         }
     }
 }
