@@ -10,25 +10,25 @@ namespace polymorphism
             mike.Code("C#");
             mike.Code("C#","HTML"); */
 
-            List<object> salesmen = new List<object>() {new CarSalesman("James", "Weaver"), new CarSalesman("Sue", "McGregor"), new RetailSalesPerson("Delores", "Kirby"), new InsuraceBroker("Ash","J")};
+            List<Salesman> salesmen = new List<Salesman>() {new CarSalesman("James", "Weaver"), new CarSalesman("Sue", "McGregor"), new RetailSalesPerson("Delores", "Kirby"), new InsuraceBroker("Ash","J"), new OnlineMarketer("Online","Market")};
+            List<SeflDeveloping> selfDeveloping = new List<SeflDeveloping>() {new RetailSalesPerson("Delores", "Kirby"), new WebDeveloper("C#")};
 
             foreach(var item in salesmen)
             {
                 showMeHowToSell(item);
             }
+            foreach(var item in selfDeveloping)
+            {
+                ShowMeHowYouSelfDevelop(item);
+            }
         }
-        static void showMeHowToSell(object salesman)
+        static void showMeHowToSell(Salesman salesman)
         {
-            if(salesman is CarSalesman)
-            {
-                CarSalesman carSalesman = (CarSalesman) salesman;
-                carSalesman.Sell();
-            }
-            else
-            {
-                RetailSalesPerson retailSalesPerson = (RetailSalesPerson) salesman;
-                retailSalesPerson.Sell();
-            }
+            salesman.Sell();
+        }
+        static void ShowMeHowYouSelfDevelop(SeflDeveloping seflDeveloping)
+        {
+            seflDeveloping.Develop();
         }
     }
 }
