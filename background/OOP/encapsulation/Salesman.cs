@@ -15,5 +15,19 @@ public abstract class Salesman
         this._firstName = firstName;
         this._lastName = lastName;
     }
-    public abstract void Sell();
+    public void Sell()
+    {
+        this.Engage();
+        this.EstablishTrust();
+        this.AddressConcerns();
+        this.DemoValue();
+        this.Close();
+    }
+
+    protected abstract void Engage();
+    protected abstract void EstablishTrust();
+    protected abstract void AddressConcerns();
+    protected abstract void DemoValue();
+    protected abstract void Close();
+
 }
