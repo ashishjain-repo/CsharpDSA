@@ -1,0 +1,15 @@
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\bin\Debug\net8.0\Array-ArrayDeletions.exe
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\bin\Debug\net8.0\Array-ArrayDeletions.deps.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\bin\Debug\net8.0\Array-ArrayDeletions.runtimeconfig.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\bin\Debug\net8.0\Array-ArrayDeletions.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\bin\Debug\net8.0\Array-ArrayDeletions.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\obj\Debug\net8.0\Array-ArrayDeletions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\obj\Debug\net8.0\Array-ArrayDeletions.AssemblyInfoInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\obj\Debug\net8.0\Array-ArrayDeletions.AssemblyInfo.cs
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\obj\Debug\net8.0\Array-ArrayDeletions.csproj.CoreCompileInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\obj\Debug\net8.0\Array-ArrayDeletions.sourcelink.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\obj\Debug\net8.0\Array-ArrayDeletions.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\obj\Debug\net8.0\refint\Array-ArrayDeletions.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\obj\Debug\net8.0\Array-ArrayDeletions.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\obj\Debug\net8.0\Array-ArrayDeletions.genruntimeconfig.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayDeletions\obj\Debug\net8.0\ref\Array-ArrayDeletions.dll

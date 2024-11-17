@@ -1,0 +1,15 @@
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\bin\Debug\net8.0\Array-ArrayInsertions.exe
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\bin\Debug\net8.0\Array-ArrayInsertions.deps.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\bin\Debug\net8.0\Array-ArrayInsertions.runtimeconfig.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\bin\Debug\net8.0\Array-ArrayInsertions.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\bin\Debug\net8.0\Array-ArrayInsertions.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\obj\Debug\net8.0\Array-ArrayInsertions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\obj\Debug\net8.0\Array-ArrayInsertions.AssemblyInfoInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\obj\Debug\net8.0\Array-ArrayInsertions.AssemblyInfo.cs
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\obj\Debug\net8.0\Array-ArrayInsertions.csproj.CoreCompileInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\obj\Debug\net8.0\Array-ArrayInsertions.sourcelink.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\obj\Debug\net8.0\Array-ArrayInsertions.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\obj\Debug\net8.0\refint\Array-ArrayInsertions.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\obj\Debug\net8.0\Array-ArrayInsertions.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\obj\Debug\net8.0\Array-ArrayInsertions.genruntimeconfig.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Array-ArrayInsertions\obj\Debug\net8.0\ref\Array-ArrayInsertions.dll

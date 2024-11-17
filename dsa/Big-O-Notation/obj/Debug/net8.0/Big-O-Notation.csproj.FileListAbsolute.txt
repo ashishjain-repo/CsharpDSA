@@ -1,0 +1,15 @@
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\bin\Debug\net8.0\Big-O-Notation.exe
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\bin\Debug\net8.0\Big-O-Notation.deps.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\bin\Debug\net8.0\Big-O-Notation.runtimeconfig.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\bin\Debug\net8.0\Big-O-Notation.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\bin\Debug\net8.0\Big-O-Notation.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\obj\Debug\net8.0\Big-O-Notation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\obj\Debug\net8.0\Big-O-Notation.AssemblyInfoInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\obj\Debug\net8.0\Big-O-Notation.AssemblyInfo.cs
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\obj\Debug\net8.0\Big-O-Notation.csproj.CoreCompileInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\obj\Debug\net8.0\Big-O-Notation.sourcelink.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\obj\Debug\net8.0\Big-O-Notation.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\obj\Debug\net8.0\refint\Big-O-Notation.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\obj\Debug\net8.0\Big-O-Notation.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\obj\Debug\net8.0\Big-O-Notation.genruntimeconfig.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Big-O-Notation\obj\Debug\net8.0\ref\Big-O-Notation.dll
