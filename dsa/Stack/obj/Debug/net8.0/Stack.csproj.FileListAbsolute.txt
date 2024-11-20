@@ -1,0 +1,15 @@
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\bin\Debug\net8.0\Stack.exe
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\bin\Debug\net8.0\Stack.deps.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\bin\Debug\net8.0\Stack.runtimeconfig.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\bin\Debug\net8.0\Stack.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\bin\Debug\net8.0\Stack.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\obj\Debug\net8.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\obj\Debug\net8.0\Stack.AssemblyInfoInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\obj\Debug\net8.0\Stack.AssemblyInfo.cs
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\obj\Debug\net8.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\obj\Debug\net8.0\Stack.sourcelink.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\obj\Debug\net8.0\Stack.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\obj\Debug\net8.0\refint\Stack.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\obj\Debug\net8.0\Stack.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\obj\Debug\net8.0\Stack.genruntimeconfig.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Stack\obj\Debug\net8.0\ref\Stack.dll
