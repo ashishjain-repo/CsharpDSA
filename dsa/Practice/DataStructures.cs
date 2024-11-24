@@ -54,7 +54,3 @@ class ArrayManipulation
     }
 }
 
-class LinkedList
-{
-    
-}

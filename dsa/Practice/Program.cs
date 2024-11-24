@@ -42,5 +42,36 @@
         Console.WriteLine($"[{string.Join(", ", sortedList1)}]");
         Console.WriteLine($"[{string.Join(", ", sortedList2)}]");
 
+        MyLinkedList linkedList = new MyLinkedList();
+        linkedList.AddLast(10);
+        linkedList.AddLast(20);
+        linkedList.AddLast(30);
+        linkedList.AddLast(100);
+        linkedList.AddLast(40);
+        linkedList.AddLast(50);
+        linkedList.AddLast(60);
+        linkedList.AddLast(70);
+        linkedList.Remove(100);
+        linkedList.AddLast(80);
+        linkedList.AddLast(90);
+        linkedList.PrintList();
+
+        DoublyLinkedList doubly = new DoublyLinkedList();
+        System.Console.WriteLine();
+        doubly.AddFirst(10);
+        doubly.AddFirst(20);
+        doubly.AddFirst(30);
+        doubly.AddLast(40);
+        doubly.Remove(20);
+        doubly.PrintForward();
+        doubly.PrintBackward();
+
+        LinkedList linked = new LinkedList();
+        linked.AddLast(10);
+        linked.AddLast(20);
+        linked.AddLast(30);
+        linked.Reverse();
+        linked.PrintList();
+        linked.HasCycle();
     }
 }
