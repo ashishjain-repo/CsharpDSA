@@ -96,6 +96,13 @@
         stack.PrintStack();
         System.Console.WriteLine(stack.Size());
 
-        
+        Stack random = new Stack(10);
+        random.Push(10);
+        random.Push(20);
+        random.Push(30);
+        random.Push(40);
+        random.PrintStack();
+        random.Reverse();
+        random.PrintStack();
     }
 }

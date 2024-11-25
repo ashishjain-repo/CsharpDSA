@@ -1,8 +1,8 @@
 public class Stack
 {
-    public int MaxSize {get; set;}
-    public int[] IntArray {get; set;}
-    public int Top {get; set;}
+    public int MaxSize { get; set; }
+    public int[] IntArray { get; set; }
+    public int Top { get; set; }
     public Stack(int size)
     {
         MaxSize = size;
@@ -16,7 +16,7 @@ public class Stack
             Top++;
             IntArray[Top] = data;
         }
-        catch(IndexOutOfRangeException)
+        catch (IndexOutOfRangeException)
         {
             System.Console.WriteLine("Stack is Full!");
             return;
@@ -27,10 +27,10 @@ public class Stack
         try
         {
             int OldTop = Top;
-        Top--;
-        return IntArray[OldTop];
+            Top--;
+            return IntArray[OldTop];
         }
-        catch(IndexOutOfRangeException)
+        catch (IndexOutOfRangeException)
         {
             System.Console.WriteLine("Stack is Empty!");
             return 0;
@@ -38,13 +38,13 @@ public class Stack
     }
     public void PrintStack()
     {
-        if(Top == -1)
+        if (Top == -1)
         {
             System.Console.WriteLine("Empty Stack!");
             return;
         }
         System.Console.Write("[TOP] -> ");
-        for(int i = 0; i < Top; i++)
+        for (int i = 0; i <= Top; i++)
         {
             System.Console.Write(IntArray[i] + " -> ");
         }
@@ -70,5 +70,22 @@ public class Stack
     {
         return Top + 1;
     }
-
+    public void Reverse()
+    {
+        if(isEmpty())
+        {
+            return;
+        }
+        int[] TempArray = new int[Size()];
+        int Index = 0;
+        while(!isEmpty())
+        {
+            TempArray[Index++] = Pop();
+        }
+        for(int i = 0; i < Index; i++)
+        {
+            Push(TempArray[i]);
+        }
+    }
+    
 }
