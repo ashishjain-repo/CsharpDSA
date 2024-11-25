@@ -73,5 +73,29 @@
         linked.Reverse();
         linked.PrintList();
         linked.HasCycle();
+
+        // Stack
+        Stack stack = new Stack(10);
+        stack.Push(10);
+        stack.Push(20);
+        stack.Push(30);
+        stack.Push(40);
+        stack.Push(50);
+        stack.Push(60);
+        stack.Push(70);
+        stack.Push(80);
+        stack.Push(90);
+        stack.Push(100);
+        System.Console.WriteLine(stack.Size());
+        stack.PrintStack();
+        System.Console.WriteLine(stack.isFull());
+        System.Console.WriteLine(stack.Pop());
+        System.Console.WriteLine(stack.Peek());
+        stack.PrintStack();
+        stack.Clear();
+        stack.PrintStack();
+        System.Console.WriteLine(stack.Size());
+
+        
     }
 }
