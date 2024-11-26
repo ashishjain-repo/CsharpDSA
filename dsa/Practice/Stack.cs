@@ -1,91 +1,101 @@
-public class Stack
+namespace MyStack
 {
-    public int MaxSize { get; set; }
-    public int[] IntArray { get; set; }
-    public int Top { get; set; }
-    public Stack(int size)
+    public class Stack<T>
     {
-        MaxSize = size;
-        IntArray = new int[MaxSize];
-        Top = -1;
-    }
-    public void Push(int data)
-    {
-        try
+        public int MaxSize { get; set; }
+        public T[] MyArray { get; set; }
+        public int Top { get; set; }
+
+        public Stack(int Size)
         {
-            Top++;
-            IntArray[Top] = data;
+            MaxSize = Size;
+            Top = -1;
+            MyArray = new T[MaxSize];
         }
-        catch (IndexOutOfRangeException)
+
+        public bool IsEmpty()
         {
-            System.Console.WriteLine("Stack is Full!");
-            return;
+            return Top == -1;
         }
-    }
-    public int Pop()
-    {
-        try
+
+        public bool IsFull()
         {
-            int OldTop = Top;
-            Top--;
-            return IntArray[OldTop];
+            return Top + 1 == MaxSize;
         }
-        catch (IndexOutOfRangeException)
+
+        public void Push(T Data)
         {
-            System.Console.WriteLine("Stack is Empty!");
-            return 0;
+            if (IsFull())
+            {
+                Console.WriteLine("List is Full!");
+                return;
+            }
+            MyArray[++Top] = Data;
         }
-    }
-    public void PrintStack()
-    {
-        if (Top == -1)
+
+        public T? Pop()
         {
-            System.Console.WriteLine("Empty Stack!");
-            return;
+            if (IsEmpty())
+            {
+                Console.WriteLine("List is Empty!");
+                return default;
+            }
+            return MyArray[Top--];
         }
-        System.Console.Write("[TOP] -> ");
-        for (int i = 0; i <= Top; i++)
+
+        public T Peek()
         {
-            System.Console.Write(IntArray[i] + " -> ");
+            if (IsEmpty())
+            {
+                throw new InvalidOperationException("List is Empty!");
+            }
+            return MyArray[Top];
         }
-        System.Console.Write("[END]\n");
-    }
-    public int Peek()
-    {
-        return IntArray[Top];
-    }
-    public bool isEmpty()
-    {
-        return Top == -1;
-    }
-    public bool isFull()
-    {
-        return (Top + 1 == MaxSize);
-    }
-    public void Clear()
-    {
-        Top = -1;
-    }
-    public int Size()
-    {
-        return Top + 1;
-    }
-    public void Reverse()
-    {
-        if(isEmpty())
+
+        public void Print()
         {
-            return;
+            if (IsEmpty())
+            {
+                Console.WriteLine("List is Empty!");
+                return;
+            }
+
+            Console.Write("{");
+            for (int i = 0; i <= Top; i++)
+            {
+                Console.Write(MyArray[i]);
+                if (i < Top)
+                    Console.Write(", ");
+            }
+            Console.WriteLine("}");
         }
-        int[] TempArray = new int[Size()];
-        int Index = 0;
-        while(!isEmpty())
+
+        public void Reverse()
         {
-            TempArray[Index++] = Pop();
-        }
-        for(int i = 0; i < Index; i++)
-        {
-            Push(TempArray[i]);
+            if (IsEmpty())
+            {
+                Console.WriteLine("List is Empty!");
+                return;
+            }
+
+            if (Top == 0)
+            {
+                Console.WriteLine("No Need to reverse");
+                return;
+            }
+
+            T[] Temp = new T[Top + 1];
+            int Index = 0;
+
+            while (!IsEmpty())
+            {
+                Temp[Index++] = Pop();
+            }
+
+            for (int i = 0; i < Index; i++)
+            {
+                Push(Temp[i]);
+            }
         }
     }
-    
 }
