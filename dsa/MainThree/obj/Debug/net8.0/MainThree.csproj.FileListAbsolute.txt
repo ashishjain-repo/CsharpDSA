@@ -1,0 +1,15 @@
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\bin\Debug\net8.0\MainThree.exe
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\bin\Debug\net8.0\MainThree.deps.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\bin\Debug\net8.0\MainThree.runtimeconfig.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\bin\Debug\net8.0\MainThree.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\bin\Debug\net8.0\MainThree.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\obj\Debug\net8.0\MainThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\obj\Debug\net8.0\MainThree.AssemblyInfoInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\obj\Debug\net8.0\MainThree.AssemblyInfo.cs
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\obj\Debug\net8.0\MainThree.csproj.CoreCompileInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\obj\Debug\net8.0\MainThree.sourcelink.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\obj\Debug\net8.0\MainThree.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\obj\Debug\net8.0\refint\MainThree.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\obj\Debug\net8.0\MainThree.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\obj\Debug\net8.0\MainThree.genruntimeconfig.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\MainThree\obj\Debug\net8.0\ref\MainThree.dll

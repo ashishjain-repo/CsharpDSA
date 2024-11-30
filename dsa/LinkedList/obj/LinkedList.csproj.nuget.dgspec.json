@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\LinkedList\\LinkedList.csproj": {}
+    "C:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\LinkedList\\LinkedList.csproj": {}
   },
   "projects": {
-    "c:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\LinkedList\\LinkedList.csproj": {
+    "C:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\LinkedList\\LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\LinkedList\\LinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\LinkedList\\LinkedList.csproj",
         "projectName": "LinkedList",
-        "projectPath": "c:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\LinkedList\\LinkedList.csproj",
+        "projectPath": "C:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\LinkedList\\LinkedList.csproj",
         "packagesPath": "C:\\Users\\aj901\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\LinkedList\\obj\\",
+        "outputPath": "C:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aj901\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,66 +1,84 @@
-public class Queue<T>
+namespace MyQueue
 {
-    private T[] items;
-    private int front;
-    private int rear;
-    private int count;
-    private int capacity;
-    public Queue(int Capacity)
+    public class Queue<T>
     {
-        this.capacity = Capacity;
-        items = new T[capacity];
-        front = 0;
-        rear = -1;
-        count = 0;
-    }
-    public void Enqueue(T element)
-    {
-        if(IsFull())
+        public int MaxSize {get; set;}
+        public T[] MyArray {get; set;}
+        public int Front {get; set;}
+        public int Back {get; set;}
+        public int NItems {get; set;}
+        public Queue(int Size)
         {
-            throw new InvalidOperationException("Queue is full. Cannot enque.");
+            this.MaxSize = Size;
+            this.MyArray = new T[MaxSize];
+            this.Front = 0;
+            this.Back = -1;
+            this.NItems = 0;
         }
-        rear = (rear + 1) % capacity;
-        items[rear] = element;
-        count++;
-    }
-    public T Dequeue()
-    {
-        if(IsEmpty())
+        public bool IsEmpty()
         {
-            throw new InvalidOperationException("Queue is empty. Cannot dequeue");
+            return NItems == 0;
         }
-        T element = items[front];
-        front = (front + 1) % capacity;
-        count--;
-        return element;
-    }
-    public T Peek()
-    {
-        if(IsEmpty())
+        public bool IsFull()
         {
-            throw new InvalidOperationException("Queue is empty. Cannot peek.");
+            return NItems == MaxSize;
         }
-        return items[front];
-    }
-    public bool IsEmpty()
-    {
-        return count == 0;
-    }
-    public bool IsFull()
-    {
-        return count == capacity;
-    }
-    public int GetSize()
-    {
-        return count;
-    }
-    public void Print()
-    {
-        System.Console.Write("{");
-        for(int i = 0; i < count; i++)
+        public int Size()
         {
-            System.Console.Write(items[i] + ",");
+            return NItems;
         }
-        System.Console.Write("}\n");
+        public void Enqueue(T Data)
+        {
+            if(IsFull())
+            {
+                System.Console.WriteLine("Queue is Full!");
+                return;
+            }
+            Back++;
+            MyArray[Back] = Data;
+            if(Back == MaxSize)
+            {
+                Back = 0;
+            }
+            NItems++;
+        }
+        public T Dequeue()
+        {
+            if(IsEmpty())
+            {
+                System.Console.WriteLine("Queue is Empty!");
+                return default;
+            }
+            T Temp = MyArray[Front];
+            Front++;
+            if(Front == MaxSize)
+            {
+                Front = 0;
+            }
+            NItems--;
+            return Temp;
+        }
+        public T Peek()
+        {
+            if(IsEmpty())
+            {
+                System.Console.WriteLine("Queue is Empty!");
+                return default;
+            }
+            return MyArray[Front];
+        }
+        public void Print()
+        {
+            Console.Write("{");
+            for(int i = Front; i < MaxSize; i++)
+            {
+                System.Console.Write(MyArray[i]);
+                if(i < MaxSize - 1)
+                {
+                    Console.Write(", ");
+                }
+            }
+            Console.Write("}");
+        }
     }
 }

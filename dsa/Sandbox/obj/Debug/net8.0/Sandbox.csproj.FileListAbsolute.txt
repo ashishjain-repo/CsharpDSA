@@ -1,0 +1,15 @@
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\obj\Debug\net8.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\obj\Debug\net8.0\Sandbox.AssemblyInfoInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\obj\Debug\net8.0\Sandbox.AssemblyInfo.cs
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\obj\Debug\net8.0\Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\obj\Debug\net8.0\Sandbox.sourcelink.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\bin\Debug\net8.0\Sandbox.exe
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\bin\Debug\net8.0\Sandbox.deps.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\bin\Debug\net8.0\Sandbox.runtimeconfig.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\bin\Debug\net8.0\Sandbox.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\bin\Debug\net8.0\Sandbox.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\obj\Debug\net8.0\Sandbox.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\obj\Debug\net8.0\refint\Sandbox.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\obj\Debug\net8.0\Sandbox.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\obj\Debug\net8.0\Sandbox.genruntimeconfig.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\dsa\Sandbox\obj\Debug\net8.0\ref\Sandbox.dll
