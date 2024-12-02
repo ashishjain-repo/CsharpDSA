@@ -1,0 +1,15 @@
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\obj\Debug\net8.0\OOP_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\obj\Debug\net8.0\OOP_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\obj\Debug\net8.0\OOP_Encapsulation.AssemblyInfo.cs
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\obj\Debug\net8.0\OOP_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\obj\Debug\net8.0\OOP_Encapsulation.sourcelink.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\bin\Debug\net8.0\OOP_Encapsulation.exe
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\bin\Debug\net8.0\OOP_Encapsulation.deps.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\bin\Debug\net8.0\OOP_Encapsulation.runtimeconfig.json
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\bin\Debug\net8.0\OOP_Encapsulation.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\bin\Debug\net8.0\OOP_Encapsulation.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\obj\Debug\net8.0\OOP_Encapsulation.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\obj\Debug\net8.0\refint\OOP_Encapsulation.dll
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\obj\Debug\net8.0\OOP_Encapsulation.pdb
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\obj\Debug\net8.0\OOP_Encapsulation.genruntimeconfig.cache
+C:\Users\aj901\OneDrive\Learning\CsharpDSA\design-patterns\OOP_Encapsulation\obj\Debug\net8.0\ref\OOP_Encapsulation.dll
