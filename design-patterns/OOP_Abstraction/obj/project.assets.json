@@ -19,6 +19,7 @@
       "packagesPath": "C:\\Users\\aj901\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\design-patterns\\OOP_Abstraction\\obj\\",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "C:\\Users\\aj901\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

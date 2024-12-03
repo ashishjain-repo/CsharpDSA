@@ -1,4 +1,6 @@
-﻿public class Program
+﻿using EmailAbstract;
+
+public class Program
 {
     public static void Main(string[] args)
     {
@@ -7,5 +9,8 @@
         emailService.Authenticate();
         emailService.SendEmail();
         emailService.Disconnect();
+
+        Email email = new Email();
+        email.SendEmail();
     }
 }
