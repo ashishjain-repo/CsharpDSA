@@ -19,7 +19,11 @@ So to make this implementation secure and logical we have created another class 
 This program is stopping the direct user access. Instead user have to create an instance and if the rules are broken the exceptions occurs which prevent the logic to break.
 
 ## Abstraction
-Abstraction is used to reduce the complexity by hiding unnecessary details of a class to the user of the class. For example when using a TV remote we do not have to worry about interacting with the circuit board upon button press. We are going to create an email class to demonstrate abstraction. SO currently we have created some methods that are public and user can freely interact with those methods.
+Abstraction is used to reduce the complexity by hiding unnecessary details of a class to the user of the class. For example when using a TV remote we do not have to worry about interacting with the circuit board upon button press. We are going to create an email class to demonstrate abstraction. SO currently we have created some methods that are public and user can freely interact with those methods. And to send an email user have to follow all the steps and in an order to send an email. To use abstraction on this we are going to make all the methods private and expose only one method to the user that will complete all the task in an order, and all the complexities are hidden and user do not have to worry about them.
+
+By doing this user has less decisions to make and the program runs in an order and have no need to explicitly tell the program to do the operation in order. If not abstracted user have to make more decision and have to understand more logic before performing and operation or running the program. And in future if our method accepts more parameters or something changes, we only have to make a change once in the implementation which is public, instead of manually going on every line of code and change it.
+
+
 ## Inheritance
 ## Polymorphism
 ## Coupling
