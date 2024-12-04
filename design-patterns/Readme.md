@@ -23,9 +23,16 @@ Abstraction is used to reduce the complexity by hiding unnecessary details of a 
 
 By doing this user has less decisions to make and the program runs in an order and have no need to explicitly tell the program to do the operation in order. If not abstracted user have to make more decision and have to understand more logic before performing and operation or running the program. And in future if our method accepts more parameters or something changes, we only have to make a change once in the implementation which is public, instead of manually going on every line of code and change it.
 
-
 ## Inheritance
+Inheritance involves creating a new class (subclass or derived class) based on the existing classes (superclass or baseclass). Subclass inherit properties and behaviours from their superclass and can also add new features or override exisiting ones. Inheritance is often described in termns of an "is-a" relationship.
+
+For example we are using Vehicle as a Base class and Car and Bike as a subclass. In this example every vehicle whether it is Car, or a bike have similar properties as in Vehicle class: Brand, Model, and Year, or methods or functionalities like Start and Stop. But instead of repeating those properties in every class we are making Vehicle parent class and child class will inherit those properties from the base or parent class.
+To inherit the class in C# `:` is used with the name of the base class after. 
+
+The use of Inheritance saves us the time to use the similar properties in methods in every class, they can be inheritied from the base class and used as per the subclass is setup, and can also shared the similar methods. If we decide to change one of the methods in that are shared by the other classes, we just have to change it at one place which is parent class and then can be used by other subclasses with new features or changes. But to make changes specific to the subclass, we use the principle of Polymorphism.
+
 ## Polymorphism
+
 ## Coupling
 ## Composition
 
