@@ -13,13 +13,12 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\ASP.NET-CORE-MVC\\ASP.NET-CORE-MVC.csproj",
-      "projectName": "ASP.NET-CORE-MVC",
-      "projectPath": "C:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\ASP.NET-CORE-MVC\\ASP.NET-CORE-MVC.csproj",
+      "projectUniqueName": "C:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\BinaryTree\\BinaryTree.csproj",
+      "projectName": "BinaryTree",
+      "projectPath": "C:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\BinaryTree\\BinaryTree.csproj",
       "packagesPath": "C:\\Users\\aj901\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\ASP.NET-CORE-MVC\\obj\\",
+      "outputPath": "C:\\Users\\aj901\\OneDrive\\Learning\\CsharpDSA\\dsa\\BinaryTree\\obj\\",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "C:\\Users\\aj901\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -64,9 +63,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
